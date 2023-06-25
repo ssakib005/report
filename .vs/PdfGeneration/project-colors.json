@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3d7d25e-d53a-4b6f-baed-f7e8e6179fdc": {
+      "ProjectGuid": "b3d7d25e-d53a-4b6f-baed-f7e8e6179fdc",
+      "DisplayName": "PdfGeneration",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

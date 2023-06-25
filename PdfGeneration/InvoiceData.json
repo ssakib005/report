@@ -1,0 +1,124 @@
+{
+  "Items": [
+    {
+      "ItemTitle": "MCC Board 300/1 (Indication 1)",
+      "ComponentId": "Component ID: 180-FT-05-O (Panel C4)",
+      "SecurityLevel": "Severity Level 4",
+      "ImageSource": "s1.png",
+      "ImageTemperatureTables": [
+        {
+          "ItemPoint": "Sp1",
+          "ItemPointTemperature": "67.9 °C",
+          "TemperatureDifference": "20.3 °C"
+        },
+        {
+          "ItemPoint": "Sp2",
+          "ItemPointTemperature": "67.9 °C",
+          "TemperatureDifference": "20.3 °C"
+        }
+      ],
+      "Emissivity": "0.95",
+      "AmbientTemperature": "31 °C",
+      "ReflectiveTemperature": "20 °C",
+      "ObjectDistance": "1m",
+      "Humidity": "51%",
+      "RedBrownPhase": "37 A",
+      "BlueBlackPhase": "38 A",
+      "YellowWhitePhase": "35 A",
+      "FaultCause": "A rise in thermal conductivity was noted on the blue and yellow phases at bottom of the isolator. The indication can be seen as severity level 3, and should be fixed as soon as possible to prevent further escalation.",
+      "Recommendations": "Ensure the correct torque setting is applied to the connection points.",
+      "ImageSource2": ""
+
+    },
+    {
+      "ItemTitle": "MCC Board 300/1 (Indication 1)",
+      "ComponentId": "Component ID: 180-FT-05-O (Panel C4)",
+      "SecurityLevel": "Severity Level 4",
+      "ImageSource": "s1.png",
+      "ImageTemperatureTables": [
+        {
+          "ItemPoint": "Sp1",
+          "ItemPointTemperature": "67.9 °C",
+          "TemperatureDifference": "20.3 °C"
+        },
+        {
+          "ItemPoint": "Sp2",
+          "ItemPointTemperature": "67.9 °C",
+          "TemperatureDifference": "20.3 °C"
+        }
+      ],
+      "Emissivity": "0.95",
+      "AmbientTemperature": "31 °C",
+      "ReflectiveTemperature": "20 °C",
+      "ObjectDistance": "1m",
+      "Humidity": "51%",
+      "RedBrownPhase": "37 A",
+      "BlueBlackPhase": "38 A",
+      "YellowWhitePhase": "35 A",
+      "FaultCause": "A rise in thermal conductivity was noted on the blue and yellow phases at bottom of the isolator. The indication can be seen as severity level 3, and should be fixed as soon as possible to prevent further escalation.",
+      "Recommendations": "Ensure the correct torque setting is applied to the connection points.",
+      "ImageSource2": ""
+
+    },
+    {
+      "ItemTitle": "MCC Board 300/1 (Indication 1)",
+      "ComponentId": "Component ID: 180-FT-05-O (Panel C4)",
+      "SecurityLevel": "Severity Level 4",
+      "ImageSource": "s1.png",
+      "ImageTemperatureTables": [
+        {
+          "ItemPoint": "Sp1",
+          "ItemPointTemperature": "67.9 °C",
+          "TemperatureDifference": "20.3 °C"
+        },
+        {
+          "ItemPoint": "Sp2",
+          "ItemPointTemperature": "67.9 °C",
+          "TemperatureDifference": "20.3 °C"
+        }
+      ],
+      "Emissivity": "0.95",
+      "AmbientTemperature": "31 °C",
+      "ReflectiveTemperature": "20 °C",
+      "ObjectDistance": "1m",
+      "Humidity": "51%",
+      "RedBrownPhase": "37 A",
+      "BlueBlackPhase": "38 A",
+      "YellowWhitePhase": "35 A",
+      "FaultCause": "A rise in thermal conductivity was noted on the blue and yellow phases at bottom of the isolator. The indication can be seen as severity level 3, and should be fixed as soon as possible to prevent further escalation.",
+      "Recommendations": "Ensure the correct torque setting is applied to the connection points.",
+      "ImageSource2": ""
+
+    },
+    {
+      "ItemTitle": "MCC Board 300/1 (Indication 1)",
+      "ComponentId": "Component ID: 180-FT-05-O (Panel C4)",
+      "SecurityLevel": "Severity Level 4",
+      "ImageSource": "s1.png",
+      "ImageTemperatureTables": [
+        {
+          "ItemPoint": "Sp1",
+          "ItemPointTemperature": "67.9 °C",
+          "TemperatureDifference": "20.3 °C"
+        },
+        {
+          "ItemPoint": "Sp2",
+          "ItemPointTemperature": "67.9 °C",
+          "TemperatureDifference": "20.3 °C"
+        }
+      ],
+      "Emissivity": "0.95",
+      "AmbientTemperature": "31 °C",
+      "ReflectiveTemperature": "20 °C",
+      "ObjectDistance": "1m",
+      "Humidity": "51%",
+      "RedBrownPhase": "37 A",
+      "BlueBlackPhase": "38 A",
+      "YellowWhitePhase": "35 A",
+      "FaultCause": "A rise in thermal conductivity was noted on the blue and yellow phases at bottom of the isolator. The indication can be seen as severity level 3, and should be fixed as soon as possible to prevent further escalation.",
+      "Recommendations": "Ensure the correct torque setting is applied to the connection points.",
+      "ImageSource2": ""
+
+    }
+  ]
+}

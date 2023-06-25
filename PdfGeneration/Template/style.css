@@ -1,0 +1,261 @@
+@font-face {
+    font-family: SourceSansPro;
+    src: url(SourceSansPro-Regular.ttf);
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+body {
+    position: relative;
+    width: 35cm;
+    height: 39.7cm;
+    margin: 0 auto;
+    color: #555555;
+    background: #FFFFFF;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-family: SourceSansPro;
+}
+
+main {
+    width: 35cm;
+    height: 40cm;
+    margin: 0 auto;
+}
+
+header {
+    padding: 10px 0;
+    margin-bottom: 20px;
+    border-bottom: 5px solid #FF8300;
+    width: 967px;
+}
+
+footer {
+    padding: 10px 0;
+    margin-bottom: 20px;
+    border-bottom: 5px solid #AAAAAA;
+    width: 967px;
+    bottom: 20px;
+    position: fixed;
+}
+
+#logo {
+    float: left;
+    margin-top: 18px;
+}
+
+#logo img {
+    height: 110px;
+}
+
+#company {
+    float: left;
+    text-align: right;
+}
+
+
+#details {
+    margin-bottom: 80px;
+}
+
+#client {
+    padding-left: 10px;
+    border-left: 10px solid #db3311;
+    float: left;
+}
+
+#client .to {
+    color: #777777;
+}
+
+h2.name {
+    font-size: 1.4em;
+    font-weight: normal;
+    margin: 0;
+}
+
+div.main_center{
+    margin-left: 30px;
+}
+
+table.componentid {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    float: left;
+}
+
+th.componentid {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+td.componentid {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+table.imagePoint {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 450px;
+    float: left;
+}
+
+th.imagePoint {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 110px;
+}
+
+td.imagePoint {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 150px;
+    text-align: center;
+}
+
+table.measurement {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 450px;
+    height: 10px;
+    float: left;
+}
+
+th.measurement {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 400px;
+    height: 10px;
+}
+
+td.measurement {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 400px;
+    height: 10px;
+}
+
+table.phase {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 450px;
+    float: left;
+}
+
+th.phase {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td.phase {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table.comments {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+}
+
+th.comments {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 50px;
+}
+
+td.comments {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 80px;
+
+}
+
+
+.grid_two {
+    border: 2px solid black;
+    height: 310px;
+    width: 459px;
+    float: left;
+}
+
+.wrapper {
+    float: left;
+    margin-top: 10px;
+    display: grid;
+    width: 70%;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 81.2%;
+}
+
+.one {
+    grid-column: 1;
+    grid-row: 1;
+    width: 5px;
+}
+
+.two {
+    grid-column: 2;
+    grid-row: 1;
+    float: left;
+}
+
+.three {
+    grid-row: 2;
+    grid-column: span 2;
+}
+
+
+table.phase_image {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+th.phase_image {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+}
+
+td.phase_image {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+}
+
+
